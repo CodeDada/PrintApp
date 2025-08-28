@@ -4,7 +4,7 @@ import { PrintHome } from "./print-home/print-home";
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet, PrintHome],
+  imports: [PrintHome],
   templateUrl: './app.html',
   styles: [],
 })

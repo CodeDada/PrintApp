@@ -1,0 +1,12 @@
+export default `<!DOCTYPE html><html lang="en" data-beasties-container><head>
+  <meta charset="utf-8">
+  <title>PrintApp</title>
+  <base href="https://totalprints.in/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+<link rel="stylesheet" href="styles-5INURTSO.css"></head>
+<body><!--nghm-->
+  <app-root ng-version="20.2.1" ngh="0" ng-server-context="ssg"><app-print-home ngh="0"><div style="text-align: center; margin-top: 50px;"><h2>Site development is in progress</h2><p>Please check back soon!</p></div></app-print-home></app-root>
+<script src="main-4LUE67AC.js" type="module"></script>
+
+<script id="ng-state" type="application/json">{"__nghData__":[{}]}</script></body></html>`;
